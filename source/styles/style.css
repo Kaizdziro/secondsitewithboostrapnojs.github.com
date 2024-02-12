@@ -1,0 +1,637 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+    
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+
+  /* \\\\\Header-css\\\\ */
+  
+  .Castaway-header{
+    text-align: center;
+    width: 160px;
+    height: 32.62px;
+    color: #FFFFFF;
+    font-weight:700;
+
+  }
+
+  .navbar-nav .nav-link.active{
+    color: #118DA8;
+  }
+
+  .navbar-nav .nav-link{
+    color: #FFFFFF;
+  }
+
+  .navbar{
+    background-color: #191919;
+  }
+
+  .offcanvas{
+    background-color: #191919;
+    
+  }
+
+  .offcanvas-title{
+    color: #FFFFFF;
+  }
+
+  .man-with-headphones-class{
+    width: 650px;
+    height: 873px;
+    border-radius: 12px;
+  }
+
+  .Images-in-header-spot{
+    padding-right: 30px;
+  }
+
+  .Podcast-text-in-header{
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 88px;
+    color: #FFFFFF;
+  }
+
+  .Podcast-text-in-header-level{
+    font-family: DM Sans;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 88px;
+    color: #FFFFFF;
+    
+
+  }
+
+  .Listen-text-in-header{
+    font-family: DM Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    
+
+  }
+
+  .Latest-episodes-main{
+    font-family: DM Sans;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 79px;
+    letter-spacing: 2.880000114440918px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+  }
+
+  .View-all-episodes{
+    background-color: #118DA8;
+    font-family: DM Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    
+
+  }
+  
+
+  /* \\\\\\Main-css\\\\\\\ */
+
+  .pods-in-main{
+    width: 389px;
+    height: 465px;
+
+  }
+  .pods-in-main2{
+    width: 389px;
+    height: 432px;
+
+  }
+  .pods-in-main3{
+    width: 389px;
+    height: 432px;
+
+  }
+
+  .wrapper-episodes{
+    width: 95%;
+    height: 95%;
+    border-radius: 32px;
+
+    background-color: black;
+  }
+
+  .gear-main{
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #191919;
+    display:inline-block;
+    margin-top: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 6px;
+  }
+
+  .Episode{
+    font-family: DM Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #118DA8;
+    
+
+  }
+
+  .title-main{
+    font-family: DM Sans;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 70px;
+    text-align: left;
+    color: #FFFFFF;
+  }
+
+  .description-main{
+    font-family: DM Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFFB2;
+
+  }
+
+  .description-main2{
+    font-size: 22px;
+    font-family: DM Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFFB2;
+
+  }
+
+  .button-main{
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #118DA8;
+
+  }
+
+  .title-main3{
+    font-family: DM Sans;
+    font-size: 57px;
+    font-weight: 400;
+    line-height: 70px;
+    text-align: left;
+    color: #FFFFFF;
+  }
+
+  .View-Episodes-Button{
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+
+
+  /* \\\\\Section-css\\\\\ */
+
+  .Arrow-sec{
+    width: 114px;
+    height: 100px;
+    
+
+  }
+ 
+  .meet-your-host-sec{
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #118DA8;
+  }
+
+  .Jacob-Paulaner-sec{
+    font-family: DM Sans;
+    font-size: 65px;
+    font-weight: 400;
+    line-height: 79px;
+    letter-spacing: 2.880000114440918px;
+    text-align: left;
+    color: #FFFFFF;
+  }
+
+  .description-sec{
+    font-family: DM Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFFB2;
+    
+
+  }
+
+
+ 
+  .mansmilexd{
+    width: 650px;
+    height: 743px;
+    border-radius: 12px;
+
+  }
+ 
+  /* \\\\\section-css2\\\\\ */
+
+
+  .wrapper-email-newsletter{
+    border-radius: 32px;
+    background-color: black;
+
+  }
+
+  .email-sec2{
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #118DA8;
+    padding-top: 30px;
+    margin-bottom: 0;
+
+  }
+
+  .subscribe-sec2{
+    font-family: DM Sans;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 79px;
+    letter-spacing: 2.880000114440918px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+  }
+
+  .form-control{
+    width: 522px;
+    height: 82px;
+    border-radius: 6px;
+    border: 1px;
+    background-color: #191919;
+  }
+
+  .button-submit{
+    background-color: #118DA8;
+    color: #FFFFFF;
+  }
+
+ 
+
+
+
+  /* \\\\\\section-css3\\\\\\\ */
+
+  .wrapper-reviews{
+
+    width: 423px;
+    height: 321px;
+    border-radius: 32px;
+    background-color: #000000;
+  }
+
+  .comments-sec3{
+    font-family: DM Sans;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 43px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+
+  }
+
+  .comments-authors-sec3{
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFFB2;
+
+  }
+
+  .footer-wrapper{
+    color: #FFFFFF;
+  }
+
+  .footer-title{
+    font-weight: 700;
+  }
+
+  .footer-links{
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  .links-footer{
+    color: #FFFFFF;
+  }
+
+  .navbar-toggler{
+    color: #FFFFFF;
+  }
+
+
+  /* \\\\\\Section-with-media\\\\\\ */
+
+  @media (min-width:1920px){
+    .man-with-headphones-class{
+      width: 40vw;
+      height: 55vw;
+    }
+  
+    .pods-in-main{
+      width: 27vw;
+      height: 25vw;
+    }
+  
+    .pods-in-main2{
+      width: 27vw;
+      height: 25vw;
+    }
+  
+    .pods-in-main3{
+      width: 27vw;
+      height: 25vw;
+    }
+  
+    .mansmilexd{
+      width: 45vw;
+      height: 45vw;
+    }
+
+    .wrapper-reviews{
+
+      width: 32vw;
+      height: 321px;
+      border-radius: 32px;
+      background-color: #000000;
+    }
+
+    .footer-wrapper{
+      
+      text-align: center;
+      
+    }
+
+
+   
+   
+  }
+  
+
+@media(max-width: 768px){
+  .form-control{
+    width: 70vw;
+  }
+
+  .pods-in-main{
+    width: 50vw;
+    height: 60vw;
+  }
+  .pods-in-main2{
+    width: 50vw;
+    height: 60vw;
+  }
+  .pods-in-main3{
+    width: 50vw;
+    height: 60vw;
+  }
+
+
+  .mansmilexd{
+    width: 86vw;
+    height: 100vw;
+  }
+
+  .Arrow-sec-div{
+    
+    display: flex;
+    justify-content: center;
+  }
+
+  .meet-your-host-sec{
+    text-align: center;
+  }
+
+  .Jacob-Paulaner-sec{
+    text-align: center;
+
+  }
+
+  .description-sec{
+    text-align: center;
+  }
+
+  
+  .title-main{
+    font-size: clamp(6vw, 6vw, 16vw);
+  }
+
+  .description-main2{
+    font-size: 24px;
+  }
+
+  .title-main3{
+    font-size: clamp(6vw, 6vw, 16vw);
+  }
+
+  .footer-wrapper{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 4%;
+  }
+
+  
+
+}
+
+@media(max-width: 883px){
+  .wrapper-reviews{
+    width: 97vw;
+  }
+
+}
+
+@media(max-width: 800px){
+  .man-with-headphones-class{
+    width: 93vw;
+    height: 100vw;
+  }
+
+ 
+
+}
+
+
+
+@media(max-width: 430px){
+  
+  .img-wrapper{
+    text-align: center;
+  }
+
+  .Images-in-header-spot{
+    padding: 20px;
+  }
+  
+  .pod-wrapper{
+    text-align: center;
+  }
+
+  .Listen-text-in-header{
+    text-align: center;
+  }
+
+  .pods-in-main{
+    width: 77vw;
+    height: 90vw;
+  }
+  
+  .pods-in-main2{
+    width: 77vw;
+    height: 90vw;
+  }
+
+  .pods-in-main3{
+    width: 77vw;
+    height: 90vw;
+  }
+
+  .View-all-episodes{
+    display: flex;
+    justify-content: center;
+  }
+
+  .mansmilexd{
+    width: 78vw;
+    height: 95vw;
+  }
+
+  .wrapper-reviews{
+    width: 92vw;
+  }
+
+  .Latest-episodes-main{
+    text-align: center;
+  }
+
+  .Podcast-text-in-header{
+    font-size: clamp(6vw, 9vw, 16vw);
+  }
+  
+  .Podcast-text-in-header-level{
+    font-size: clamp(6vw, 9vw, 16vw);
+  }
+  
+  .Latest-episodes-main{
+    font-size: clamp(6vw, 11vw, 16vw);
+  }
+
+  .title-main{
+    font-size: clamp(6vw, 11vw, 16vw);
+  }
+
+  .description-main2{
+    font-size: 20px;
+  }
+
+  .title-main3{
+    font-size: clamp(6vw, 11vw, 16vw);
+  }
+  
+  .subscribe-sec2{
+    font-size: clamp(6vw, 12vw, 16vw);
+
+  }
+
+  .comments-sec3{
+    font-size: clamp(6vw, 8vw, 16vw);
+
+  }
+
+  .man-with-headphones-class{
+    width: 87vw;
+    height: 100vw;
+  }
+
+}
+
+@media(max-width:1440px){
+  .cont-with-reviews{
+    display: flex; 
+    justify-content:space-between; 
+    align-content: space-between;
+  }
+}
+
+@media(max-width:1030px){
+  .pod-wrapper{
+    text-align: center;
+  }
+
+  .Listen-text-in-header{
+    text-align: center;
+  }
+
+  .img-wrapper{
+    text-align: center;
+  }
+}
+
+body{
+  background-color: #191919;
+
+}
+
+
+
